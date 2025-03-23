@@ -1,0 +1,6 @@
+ { name: "TANISHKA", role: "Photographer", img: "img1.jpg" },
+        { name: "HARVIND", role: "Videographer", img: "img3.jpg" },
+        { name: "PIYUSH", role: "Video Editor", img: "img4.jpg" },
+        { name: "VIJAY", role: "Photographer", img: "img2.jpg" },
+        { name: "ADITYA", role: "Videographer", img: "img6.jpg" },
+        { name: "AMAN", role: "Video Editor", img: "img5.jpg" }
